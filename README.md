@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SilvanaNavarro
 - 👀 I’m interested in Data Engineering and Data Science
-- 🌱 I’m currently learning about Data Engineering, webscrapping, API extraction, 
+- 🌱 I’m currently learning about Data Engineering, webscrapping, API extraction
 - 💞️ I’m looking to collaborate on Artificial Intelligence development (ideally) or any data management field that allows me to generate experiencie (being realistic)
 - 📫 How to reach me ... www.linkedin.com/in/silvana-navarro-b3aa43bb
 
